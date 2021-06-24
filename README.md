@@ -64,4 +64,4 @@ Tech Stack: ReactJS, JavaScript eXtension (JSX), HTML, CSS, Bootstrap, JavaScrip
 [CodePen]( https://codepen.io/kumar-sundaram-coder)**
 <br>
 
-> **If I’m not in front of my _Laptop_, you can find me outside 🚲&nbsp; _biking_ or 🧘‍♀‍&nbsp; _practicing yoga_.**
+> **If I’m not in front of my _Laptop_, you can find me outside 🚲&nbsp; _biking_ or 🧘‍♂️&nbsp; _practicing yoga_.**
