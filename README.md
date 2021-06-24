@@ -1,10 +1,9 @@
 # Hey, I'm Kumar Sundaram 👋
 
-### Full stack Web Developer Intern at Math Map Learning (OPC) Private Limited from May-2021 – Present.
-### Worked as Web and Mobile App Development Intern at The Sparks Foundation from May 2021 – June 2021.
-### Formal Content Developer (Mathematics) at Doubtnut from Nov 2020 – Jan 2021.
 
-####If I’m not in front of a computer, you can find me outside 🚲&nbsp; biking, or 🧘‍♀‍&nbsp; practicing yoga.
+##### Full stack Web Developer Intern at Math Map Learning (OPC) Private Limited from May-2021 – Present.
+##### Worked as Web and Mobile App Development Intern at The Sparks Foundation from May 2021 – June 2021.
+##### Formal Content Developer (Mathematics) at Doubtnut from Nov 2020 – Jan 2021.
 
 
 ## SKILLS
@@ -15,7 +14,19 @@
 
 > Tools and Tech: VS Code, Robo 3T (GUI for MongoDB), Postman (API Client), Koala, Heroku, Netlify, Git, etc.
 
-##ACADEMIC PROJECTS
+
+
+- 🔭 I’m currently working on the Website of Math Map Learning (OPC) Private Limited
+- 🌱 I’m currently learning React.JS
+- 👯 I’m looking to collaborate on some new Web Ap
+- 🤔 I’m looking for help with React.JS
+- 💬 Ask me about Full Stack Development, Data Structures and Algorithms
+- 📫 How to reach me: kumarsundaram_2k18co179@dtu.ac.in
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love _stackoverflow_.
+
+
+## ACADEMIC PROJECTS
 
 * Movie Reviewster: A Movie review classifier and rating predictor Web App. Every movie review added will go through
 Machine Learning and Deep Learning models for sentiment analysis. After processing the reviews, they are categorised as
@@ -32,15 +43,6 @@ Tech Stack: ReactJS, JavaScript eXtension (JSX), HTML, CSS, Bootstrap, JavaScrip
 	* TinDog
 	* Slideshow Clone, etc.
 
-- 🔭 I’m currently working on the Website of Math Map Learning (OPC) Private Limited
-- 🌱 I’m currently learning React.JS
-- 👯 I’m looking to collaborate on some new Web Ap
-- 🤔 I’m looking for help with React.JS
-- 💬 Ask me about Full Stack Development, Data Structures and Algorithms
-- 📫 How to reach me: kumarsundaram_2k18co179@dtu.ac.in
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love _stackoverflow_.
-
 
 ## Find me 🖥
 
@@ -50,3 +52,4 @@ Tech Stack: ReactJS, JavaScript eXtension (JSX), HTML, CSS, Bootstrap, JavaScrip
 [GitHub]( https://github.com/kumar-sundaram-coder) ✦
 [CodePen]( https://codepen.io/kumar-sundaram-coder)
 
+# If I’m not in front of a computer, you can find me outside 🚲&nbsp; biking or 🧘‍♀‍&nbsp; practicing yoga.
