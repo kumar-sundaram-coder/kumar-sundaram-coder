@@ -1,19 +1,22 @@
 # Hey, I'm Kumar Sundaram 👋
+<hr>
 
-
-##### Full stack Web Developer Intern at Math Map Learning (OPC) Private Limited from May-2021 – Present.
-##### Worked as Web and Mobile App Development Intern at The Sparks Foundation from May 2021 – June 2021.
-##### Formal Content Developer (Mathematics) at Doubtnut from Nov 2020 – Jan 2021.
+I'm a B.Tech. - Computer Engineering Student. I'm Pursuing my Under-Graduation from Delhi Technological University (Formally as DCE).
+I'm a Full stack Web Developer(Intern) at Math Map Learning (OPC) Private Limited. (May-2021 – Present).
+I've Worked as a Web and Mobile App Development Intern at The Sparks Foundation. (May 2021 – June 2021).
+I was Content Developer (Mathematics) at Doubtnut from Nov 2020 – Jan 2021.
 
 
 ## SKILLS
 
-> Languages: C++, C, Java, Python, JavaScript, SQL.
+> __Languages:__ C++, C, Java, Python, JavaScript, SQL.
 
-> Development: HTML, CSS, jQuery, SASS, Bootstrap, EJS, NodeJS, ExpressJS, ReactJS, JSX, MySQL, MongoDB, Mongoose, etc.
+> __Development:__ HTML, CSS, jQuery, SASS, Bootstrap, EJS, NodeJS, ExpressJS, ReactJS, JSX, MySQL, MongoDB, Mongoose, etc.
 
-> Tools and Tech: VS Code, Robo 3T (GUI for MongoDB), Postman (API Client), Koala, Heroku, Netlify, Git, etc.
+> __Tools and Tech:__  VS Code, Robo 3T (GUI for MongoDB), Postman (API Client), Koala, Heroku, Netlify, Git, etc.
 
+
+<hr>
 
 
 - 🔭 I’m currently working on the Website of Math Map Learning (OPC) Private Limited
@@ -52,4 +55,4 @@ Tech Stack: ReactJS, JavaScript eXtension (JSX), HTML, CSS, Bootstrap, JavaScrip
 [GitHub]( https://github.com/kumar-sundaram-coder) ✦
 [CodePen]( https://codepen.io/kumar-sundaram-coder)
 
-# If I’m not in front of a computer, you can find me outside 🚲&nbsp; biking or 🧘‍♀‍&nbsp; practicing yoga.
+> _If I’m not in front of a computer, you can find me outside 🚲&nbsp; biking or 🧘‍♀‍&nbsp; practicing yoga._
