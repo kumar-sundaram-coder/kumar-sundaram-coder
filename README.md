@@ -1,7 +1,7 @@
 # Hey, I'm Kumar Sundaram 👋
 <hr>
 
- I'm 3rd Year B.Tech. (_Computer Engineering_) Student, I'm Pursuing my Under-Graduation from **Delhi Technological University (Formally as DCE).**
+ I'm 4th Year B.Tech. (_Computer Engineering_) Student, I'm Pursuing my Under-Graduation from **Delhi Technological University (Formally as DCE).**
 <br>
 ## Work Experience and Internships
 
@@ -13,11 +13,11 @@
 
 ## SKILLS
 
-> __Languages:__ C++, C, Java, Python, JavaScript, SQL.
+> __Languages:__ C, C++ (Proficient), JavaScript, SQL.
 
-> __Development:__ HTML, CSS, jQuery, SASS, Bootstrap, EJS, NodeJS, ExpressJS, ReactJS, JSX, MySQL, MongoDB, Mongoose, etc.
+> __Development:__ HTML, CSS, SASS, React.js, Node.js, Express.js, MongoDB, Firebase, etc.
 
-> __Tools and Tech:__  VS Code, Robo 3T (GUI for MongoDB), Postman (API Client), Koala, Heroku, Netlify, Git, etc.
+> __Tools and Tech:__  VS Code, Robo 3T, Postman, Koala, Git & GitHub, etc..
 
 <br>
 
@@ -43,6 +43,14 @@ Machine Learning and Deep Learning models for sentiment analysis. After processi
 positive/negative and the rating of movie is changed accordingly and reflected dynamically on the Website.
 Tech Stack: Python, HTML, CSS, JavaScript, Bootstrap, NodeJS, MongoDB. Python Libraries: NumPy, pandas, Matplotlib,
 NLTK, Sklearn and Keras. ML Models: Bernoulli and Multinomial Naïve Bayes. DL Model: Artificial Neural Networks.
+
+* **G-Drive:** This web-app allows users to store documents, songs, photos, videos, GIFs and files in the cloud for free,
+synchronize files across devices, and share files. Authentication is added to protect user’s files and documents. GitHub
+Link: (https://github.com/kumar-sundaram-coder/g-drive). Tech Stack: React.js, react-bootstrap, Firebase, etc.
+
+* **Signal App:** Signal App is a cross-platform messaging web-app with features like one-to-one messages, groups, stickers,
+photos, file transfers. User’s authentication is added to ensure privacy. GitHub Link: (https://github.com/kumarsundaram-
+coder/signal-app). Tech Stack: React.js, Redux, Material-UI, JavaScript, Firebase, etc.
 
 * **Keeper App:** An online note taking web app (like Google Keep) which can capture personal and business notes.
 Tech Stack: ReactJS, JavaScript eXtension (JSX), HTML, CSS, Bootstrap, JavaScript, NodeJS, MongoDB, etc.
