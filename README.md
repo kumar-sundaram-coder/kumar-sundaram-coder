@@ -49,7 +49,7 @@ synchronize files across devices, and share files. Authentication is added to pr
 Link: (https://github.com/kumar-sundaram-coder/g-drive). Tech Stack: React.js, react-bootstrap, Firebase, etc.
 
 * **Signal App:** Signal App is a cross-platform messaging web-app with features like one-to-one messages, groups, stickers,
-photos, file transfers. User’s authentication is added to ensure privacy. GitHub Link: (https://github.com/kumarsundaram-coder/signal-app). Tech Stack: React.js, Redux, Material-UI, JavaScript, Firebase, etc.
+photos, file transfers. User’s authentication is added to ensure privacy. GitHub Link: (https://github.com/kumar-sundaram-coder/signal-app). Tech Stack: React.js, Redux, Material-UI, JavaScript, Firebase, etc.
 
 * **Keeper App:** An online note taking web app (like Google Keep) which can capture personal and business notes.
 Tech Stack: ReactJS, JavaScript eXtension (JSX), HTML, CSS, Bootstrap, JavaScript, NodeJS, MongoDB, etc.
